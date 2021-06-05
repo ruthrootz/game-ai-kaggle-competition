@@ -1,2 +1,2 @@
-# game-ai-kaggle-competition
-my entry to Kaggle's connect four AI competition
+# Kaggle Connect X competition
+my entry to Kaggle's connect four competition
